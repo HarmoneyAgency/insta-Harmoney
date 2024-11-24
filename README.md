@@ -1,12 +1,12 @@
-# Insta-Recon V1.0
+# Insta-Hamoney V1.0
 
 This is a simple python OSINT Tool for Instagram.  
-It can be used to get the data of public accounts as well as Private accounts like their Username, User-id, Full-Name, Followers and Following count, Profile-pic-HD etc. that can be used to recon the user on Instagram.
+It can be used to get the data of public accounts as well as Private accounts like their Username, User-id, Full-Name, Followers and Following count, Profile-pic-HD etc. that can be used to Hamoney the user on Instagram.
 
 Also save the report to a folder with a text file and profile photo
 
 ## [Screenshot] :
-![alt text](https://raw.githubusercontent.com/turbo-hackers/Insta-Recon/main/screenshot_Insta-Recon.png)
+![alt text](https://github.com/HarmoneyAgency/insta-Harmoney/blob/main/Screenshot_1.png)
 <h2>Installation and Usage (python 3)</h2>
 
 ## [Kali-Linux] :
@@ -18,8 +18,8 @@ pip install requests
 git clone https://github.com/HarmoneyAgency/insta-Harmoney.git
 ```
 ```
-cd Insta-Recon
-python3 insta-recon.py
+cd Insta-Hamoney
+python3 insta-harmoney.py
 ```
 
 ## [Termux] :
@@ -31,12 +31,12 @@ pip install requests
 git clone https://github.com/HarmoneyAgency/insta-Harmoney.git
 ```
 ```
-cd Insta-Recon
-python3 insta-recon.py
+cd Insta-Hamoney
+python3 insta-Hamoney.py
 ```
 
 ## USEAGE :
-* `python3 insta-recon.py`
+* `python3 insta-Hamoney.py`
 * `→ Now Just Enter username of any Account`
 
 ✗ Please Turn off your VPN before using the program ✗
